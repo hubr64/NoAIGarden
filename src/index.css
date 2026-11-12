@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-fraunces {
+    font-family: 'Fraunces', Georgia, serif;
+  }
+  .font-botanical {
+    font-family: 'Fraunces', 'Cormorant Garamond', Georgia, serif;
+  }
+}
